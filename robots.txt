@@ -1,0 +1,3 @@
+Sitemap: http://www.youandworld.am/sitemap.xml
+User-agent: *
+Disallow:
